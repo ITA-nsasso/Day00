@@ -15,7 +15,7 @@ void greetingsJohn(string name){
     cout << name + ", enchanté moi c'est James, James Bond." << endl;
 }
 
-int main(int argc, char **argv){
+int main(){
     string name = greetings();
     greetingsJohn(name);
 

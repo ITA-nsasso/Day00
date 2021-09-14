@@ -16,7 +16,6 @@ int main(){
 
     cout << "Veuillez saisir un chiffre : ";
     cin >> x;
-
     fizzbuzz(x);
 
     return 0;

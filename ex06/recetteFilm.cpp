@@ -15,7 +15,6 @@ int main(){
         weeks++;
     }
 
-    cout << weeks;
-    cout << "\n";
+    cout << weeks << "\n";
     return 0;
 }

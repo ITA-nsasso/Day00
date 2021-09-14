@@ -1,0 +1,7 @@
+Issa, ici "Le correcteur", a été un correcteur assez confiant dans le corrigé.
+Au moment de la correction, je n'avais éffectué que les 8 premiers exercices.
+
+Fonctions et logique semblables, le code n'a pas eu a être testé.
+Les peux ayant été testé ont fonctionné comme attendu.
+
+Le correcteur a été coopératif vis-à-vis des réponses à mes questions.

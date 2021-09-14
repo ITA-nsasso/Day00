@@ -31,20 +31,11 @@ int main(){
 
     cout << "\n";
 
-    cout << "Bitcoin : ";
-    cout << bitcoin;
-    cout << "\n";
+    cout << "Bitcoin : " << bitcoin << "\n";
+    cout << "Ethereum : " << ethereum << "\n";
+    cout << "XRP : " cout << xrp << "\n";
 
-    cout << "Ethereum : ";
-    cout << ethereum;
-    cout << "\n";
-
-    cout << "XRP : ";
-    cout << xrp;
-    cout << "\n";
-
-    cout << "Dogecoin : ";
-    cout << dogecoin;
+    cout << "Dogecoin : " << dogecoin;
     cout << "\n";
 
     cout << "Cardano : ";

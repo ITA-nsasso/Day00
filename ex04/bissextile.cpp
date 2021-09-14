@@ -3,13 +3,13 @@
 using namespace std;
 
 bool leapYear(int year){
-    if ((year % 4 == 0 && year % 100 != 0) || (year % 4 == 0 && year % 100 == 0 && year % 400 == 0))
+    if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
         return true;
     else
         return false;
 }
 
-int main(int argc, char **argv){
+int main(){
 
     int year;
 
